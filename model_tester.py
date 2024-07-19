@@ -11,6 +11,7 @@ def load_model():
     return c, d
 
 
+# load from file
 test_images, test_labels = load_model()
 
 # using following code to load model
