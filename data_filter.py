@@ -1,11 +1,7 @@
 import os
 import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-import tensorflow as tf
 import cv2
 import random
-from pathlib import Path
 
 # store training data
 DATADIR = r'D:\project\machine_learning\machine_learning_start\.venv\Scripts\new\PetImages'
